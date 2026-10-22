@@ -33,4 +33,4 @@ Open `Multi_Class_Classification_Pipeline.ipynb` in Google Colab or Jupyter Note
 Model evaluation metrics and visualizations are included in the notebook.
 
 ## Author
-Add your name here.
+Kammesvar Nandhakumar.
